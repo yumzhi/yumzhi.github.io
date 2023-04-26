@@ -62,7 +62,30 @@
       <link href="/post/48994019/"/>
       <url>/post/48994019/</url>
       
-        <content type="html"><![CDATA[<h2 id="一、杨氏方程"><a href="#一、杨氏方程" class="headerlink" title="一、杨氏方程"></a>一、杨氏方程</h2><p>对于开放式电润湿系统，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{sg}-γ_{sl}=γ_{lg}cosθ</script><p>其中，$γ<em>{sg}$为固体与气体界面处的表面张力，$γ</em>{sl}$为固体与液体界面处的表面张力，$γ<em>{lg}$为液体与气体界面处的表面张力。该式描述了固气、固液、液气界面张力$γ</em>{sg}$，$γ<em>{sl}$，$γ</em>{lg}$与初始接触角$θ_0$之间的关系，适用于均匀表面和固液间无特殊作用的平衡状态。</p><p>对于非开放式电润湿系统而言，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{s1}-γ_{s2}=\sigma_{12}cosθ_0</script><p>其中，$γ<em>{s1}$为固体与流体1之间单位面积的表面能，$γ</em>{s2}$为固体与流体2之间单位面积的表面能，$\sigma_{12}$为两种流体之间界面处的表面张力。</p><h2 id="二、Lippman-Young方程"><a href="#二、Lippman-Young方程" class="headerlink" title="二、Lippman-Young方程"></a>二、Lippman-Young方程</h2><p>根据Lippmann的能量观点，微液滴与介电层之间电荷积累产生的电容效应导致能量变化，引起微液滴表面张力改变从而使得接触角变化。该理论用Lippman-Young方程描述介电润湿（Electrowetting-on-dielectric, EWOD）现象，此方程由Berge在20世纪90年代通过合并Lippmann方程和Young方程得出：</p><script type="math/tex; mode=display">cosθ = cosθ_0 + \frac{ε_0ε_rU^2}{2γd}</script><p>式中， $ε_0$​表示真空介电常数，$ε_r$​表示导电液滴的相对介电常数，$γ$​表示气-液表面的张力系数，$d$​为介质层厚度，$U$​为驱动电压，$θ_0$​和$θ$​分别表示施加驱动电压前后的接触角大小。</p><h2 id="三、EWOD目前存在的问题"><a href="#三、EWOD目前存在的问题" class="headerlink" title="三、EWOD目前存在的问题"></a>三、EWOD目前存在的问题</h2><ol><li>接触角饱和</li><li>接触角滞后</li><li>迟滞现象</li><li>电荷捕获</li><li>回流现象</li></ol><script type="math/tex; mode=display">f(x)=\frac{a_0}{2}+\sum^{\infty}_{n=1}[(a_{n}cos(nx)+b_{n}sin(nx)] \\a_n = \frac{1}{\pi}\int^{\pi}_{-\pi}f(x)cos(nx)dx (n=0,1,2,...) \\b_n = \frac{1}{\pi}\int^{\pi}_{-\pi}f(x)sin(nx)dx (n=0,1,2,...)</script><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+        <content type="html"><![CDATA[<h2 id="一、杨氏方程"><a href="#一、杨氏方程" class="headerlink" title="一、杨氏方程"></a>一、杨氏方程</h2><p>对于开放式电润湿系统，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{sg}-γ_{sl}=γ_{lg}cosθ</script><p>其中，$γ_{sg}$为固体与气体界面处的表面张力，$γ_{sl}$为固体与液体界面处的表面张力，$γ_{lg}$为液体与气体界面处的表面张力。该式描述了固气、固液、液气界面张力$γ_{sg}$，$γ_{sl}$，$γ_{lg}$与初始接触角$θ_0$之间的关系，适用于均匀表面和固液间无特殊作用的平衡状态。</p><p>对于非开放式电润湿系统而言，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{s1}-γ_{s2}=\sigma_{12}cosθ_0</script><p>其中，$γ_{s1}$为固体与流体之间单位面积的表面能，$γ_{s2}$为固体与流体2之间单位面积的表面能，$\sigma_{12}$为两种流体之间界面处的表面张力。</p><h2 id="二、Lippman-Young方程"><a href="#二、Lippman-Young方程" class="headerlink" title="二、Lippman-Young方程"></a>二、Lippman-Young方程</h2><p>根据Lippmann的能量观点，微液滴与介电层之间电荷积累产生的电容效应导致能量变化，引起微液滴表面张力改变从而使得接触角变化。该理论用Lippman-Young方程描述介电润湿（Electrowetting-on-dielectric, EWOD）现象，此方程由Berge在20世纪90年代通过合并Lippmann方程和Young方程得出：</p><script type="math/tex; mode=display">cosθ = cosθ_0 + \frac{ε_0ε_rU^2}{2γd}</script><p>式中， $ε_0$​表示真空介电常数，$ε_r$​表示导电液滴的相对介电常数，$γ$​表示气-液表面的张力系数，$d$​为介质层厚度，$U$​为驱动电压，$θ_0$​和$θ$​分别表示施加驱动电压前后的接触角大小。</p><h2 id="三、EWOD目前存在的问题"><a href="#三、EWOD目前存在的问题" class="headerlink" title="三、EWOD目前存在的问题"></a>三、EWOD目前存在的问题</h2><ol><li>接触角饱和</li><li>接触角滞后</li><li>迟滞现象</li><li>电荷捕获</li><li>回流现象</li></ol><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> EWD </tag>
+            
+            <tag> Simulation </tag>
+            
+            <tag> Comsol </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Simulation of Electrowetting Displays</title>
+      <link href="/post/48994019/"/>
+      <url>/post/48994019/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、杨氏方程"><a href="#一、杨氏方程" class="headerlink" title="一、杨氏方程"></a>一、杨氏方程</h2><p>对于开放式电润湿系统，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{sg}-γ_{sl}=γ_{lg}cosθ</script><p>其中，$γ_{sg}$为固体与气体界面处的表面张力，$γ_{sl}$为固体与液体界面处的表面张力，$γ_{lg}$为液体与气体界面处的表面张力。该式描述了固气、固液、液气界面张力$γ_{sg}$，$γ_{sl}$，$γ_{lg}$与初始接触角$θ_0$之间的关系，适用于均匀表面和固液间无特殊作用的平衡状态。</p><p>对于非开放式电润湿系统而言，根据杨氏方程有如下关系：</p><script type="math/tex; mode=display">γ_{s1}-γ_{s2}=\sigma_{12}cosθ_0</script><p>其中，$γ_{s1}$为固体与流体之间单位面积的表面能，$γ_{s2}$为固体与流体2之间单位面积的表面能，$\sigma_{12}$为两种流体之间界面处的表面张力。</p><h2 id="二、Lippman-Young方程"><a href="#二、Lippman-Young方程" class="headerlink" title="二、Lippman-Young方程"></a>二、Lippman-Young方程</h2><p>根据Lippmann的能量观点，微液滴与介电层之间电荷积累产生的电容效应导致能量变化，引起微液滴表面张力改变从而使得接触角变化。该理论用Lippman-Young方程描述介电润湿（Electrowetting-on-dielectric, EWOD）现象，此方程由Berge在20世纪90年代通过合并Lippmann方程和Young方程得出：</p><script type="math/tex; mode=display">cosθ = cosθ_0 + \frac{ε_0ε_rU^2}{2γd}</script><p>式中， $ε_0$​表示真空介电常数，$ε_r$​表示导电液滴的相对介电常数，$γ$​表示气-液表面的张力系数，$d$​为介质层厚度，$U$​为驱动电压，$θ_0$​和$θ$​分别表示施加驱动电压前后的接触角大小。</p><h2 id="三、EWOD目前存在的问题"><a href="#三、EWOD目前存在的问题" class="headerlink" title="三、EWOD目前存在的问题"></a>三、EWOD目前存在的问题</h2><ol><li>接触角饱和</li><li>接触角滞后</li><li>迟滞现象</li><li>电荷捕获</li><li>回流现象</li></ol><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
