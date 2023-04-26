@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>羽墨志</title>
+  <icon>http://yumozhi.com/icon.png</icon>
+  <subtitle>感受生活，分享热爱！</subtitle>
+  <link href="http://yumozhi.com/atom.xml" rel="self"/>
+  
+  <link href="http://yumozhi.com/"/>
+  <updated>2023-04-26T01:34:16.162Z</updated>
+  <id>http://yumozhi.com/</id>
+  
+  <author>
+    <name>羽墨</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Literatue Notes Template | Video-speed Electronic Paper Based on Electrowetting</title>
+    <link href="http://yumozhi.com/post/206302eb/"/>
+    <id>http://yumozhi.com/post/206302eb/</id>
+    <published>2021-08-02T13:27:50.000Z</published>
+    <updated>2023-04-26T01:34:16.162Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;[x] 理论性文章 Theoretical Paper &lt;/li&gt;
+&lt;li&gt;[ ] 实证性文章 Empirical Paper&lt;/li&gt;
+&lt;li&gt;[ ] 综述型文章 Review Paper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="科研学习" scheme="http://yumozhi.com/categories/%E7%A7%91%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Literatue Notes" scheme="http://yumozhi.com/tags/Literatue-Notes/"/>
+    
+    <category term="EWD" scheme="http://yumozhi.com/tags/EWD/"/>
+    
+    <category term="Template" scheme="http://yumozhi.com/tags/Template/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>warning: extra tokens at end of #ifdef directive</title>
+    <link href="http://yumozhi.com/post/8951da8e/"/>
+    <id>http://yumozhi.com/post/8951da8e/</id>
+    <published>2021-08-02T06:12:47.000Z</published>
+    <updated>2023-04-26T01:34:36.001Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在通过宏定义控制日志是否启用时使用了如下程序：&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="技术分享" scheme="http://yumozhi.com/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="C" scheme="http://yumozhi.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Simulation of Electrowetting Displays</title>
+    <link href="http://yumozhi.com/post/48994019/"/>
+    <id>http://yumozhi.com/post/48994019/</id>
+    <published>2021-07-23T13:58:51.000Z</published>
+    <updated>2023-04-26T01:34:01.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、杨氏方程&quot;&gt;&lt;a href=&quot;#一、杨氏方程&quot; class=&quot;headerlink&quot; title=&quot;一、杨氏方程&quot;&gt;&lt;/a&gt;一、杨氏方程&lt;/h2&gt;&lt;p&gt;对于开放式电润湿系统，根据杨氏方程有如下关系：&lt;/p&gt;
+&lt;script type=&quot;math/tex;</summary>
+        
+      
+    
+    
+    
+    <category term="科研学习" scheme="http://yumozhi.com/categories/%E7%A7%91%E7%A0%94%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="EWD" scheme="http://yumozhi.com/tags/EWD/"/>
+    
+    <category term="Simulation" scheme="http://yumozhi.com/tags/Simulation/"/>
+    
+    <category term="Comsol" scheme="http://yumozhi.com/tags/Comsol/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Post Hexo Blog with Images and PDF Files</title>
+    <link href="http://yumozhi.com/post/10b3ad08/"/>
+    <id>http://yumozhi.com/post/10b3ad08/</id>
+    <published>2021-07-21T07:03:43.000Z</published>
+    <updated>2023-04-26T01:33:44.016Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一、插入图片的方法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;绝对引用&lt;/p&gt;
+&lt;p&gt;将带插入的图片放在&lt;code&gt;/source/images&lt;/code&gt;目录内，使用&lt;code&gt;Markdown&lt;/code&gt;语法&lt;code&gt;![image](/images/image.png)&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+    <category term="Hexo" scheme="http://yumozhi.com/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="http://yumozhi.com/tags/Blog/"/>
+    
+    <category term="Markdown" scheme="http://yumozhi.com/tags/Markdown/"/>
+    
+    <category term="Typora" scheme="http://yumozhi.com/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在博客中插入思维导图</title>
+    <link href="http://yumozhi.com/post/fcc911f/"/>
+    <id>http://yumozhi.com/post/fcc911f/</id>
+    <published>2021-06-24T01:09:47.000Z</published>
+    <updated>2023-04-26T01:33:32.457Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用hexo-markmap插件&quot;&gt;&lt;a href=&quot;#使用hexo-markmap插件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+    <category term="建站" scheme="http://yumozhi.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="思维导图" scheme="http://yumozhi.com/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>启用数学公式</title>
+    <link href="http://yumozhi.com/post/7586d765/"/>
+    <id>http://yumozhi.com/post/7586d765/</id>
+    <published>2021-06-23T15:26:31.000Z</published>
+    <updated>2023-04-26T01:32:39.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装渲染插件&lt;/p&gt;
+&lt;p&gt;经过测试，&lt;code&gt;Hexo&lt;/code&gt;默认的&lt;code&gt;hexo-renderer-marked&lt;/code&gt;插件不能显示公式块，可能是该插件不支持&lt;code&gt;mathjax&lt;/code&gt;的缘故。&lt;/p&gt;
+&lt;p&gt;在博客根目</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+    <category term="建站" scheme="http://yumozhi.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="MathJax" scheme="http://yumozhi.com/tags/MathJax/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>修改Hexo博客主题</title>
+    <link href="http://yumozhi.com/post/ec1c46b0/"/>
+    <id>http://yumozhi.com/post/ec1c46b0/</id>
+    <published>2021-06-23T04:16:57.000Z</published>
+    <updated>2023-04-26T01:33:20.847Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装&lt;a href=&quot;[Butterfly - A Simple and Card UI Design theme for</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+    <category term="建站" scheme="http://yumozhi.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下搭建Hexo博客</title>
+    <link href="http://yumozhi.com/post/69251322/"/>
+    <id>http://yumozhi.com/post/69251322/</id>
+    <published>2021-06-23T04:14:18.000Z</published>
+    <updated>2023-04-26T01:32:30.018Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装&lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;，&lt;code&gt;Node.js&lt;/code&gt;版本需不低于&lt;code&gt;10.13&lt;/code&gt;，建议使用&lt;code&gt;Node.js</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+    <category term="建站" scheme="http://yumozhi.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yumozhi.com/post/4a17b156/"/>
+    <id>http://yumozhi.com/post/4a17b156/</id>
+    <published>2021-04-29T02:27:16.000Z</published>
+    <updated>2023-04-26T01:32:20.806Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="网站建设" scheme="http://yumozhi.com/categories/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+  </entry>
+  
+</feed>
